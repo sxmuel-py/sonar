@@ -127,6 +127,14 @@ If this tool saved you hours of `grep`ing through legacy code, consider buying m
 
   <br />
 
+### 🇺🇸 Direct Support (USA)
+
+**Bank:** `Wells Fargo`  
+**Account Number:** `40630299512258349`  
+**Routing Number:** `121000248`
+
+  <br />
+
 ### 🇳🇬 Direct Support (Naira)
 
 For my local supporters:
