@@ -121,9 +121,9 @@ If this tool saved you hours of `grep`ing through legacy code, consider buying m
   ### ☕ Buy Me A Coffee (Crypto)
   If you love decentralization as much as I do:
   
-  **BTC:** `bc1q... (Add your BTC address here)`  
-  **ETH / ERC-20:** `0x... (Add your ETH address here)`  
-  **SOL:** `... (Add your Solana address here)`
+  **BTC:** `16EshJ2J6kzpZafECRBmBUrfwm8D1ZWP6W`  
+  **ETH / ERC-20:** `0x5f0a200b60a06f841c2165ffd59ec07ec4ac8fc9`  
+  **SOL:** `8iHrRx8pcmXLCFAykm1KS3JTLroxUZ97DStjG3LjUUj8`
 
   <br />
 
@@ -131,9 +131,9 @@ If this tool saved you hours of `grep`ing through legacy code, consider buying m
 
 For my local supporters:
 
-**Bank:** `(Insert Bank Name)`  
- **Account Number:** `(Insert Account Number)`  
- **Account Name:** `(Insert Your Name)`
+**Bank:** `(OPAY)`  
+ **Account Number:** `(9059785724)`  
+ **Account Name:** `(SAMUEL OLATIDOYE)`
 
 </div>
 
@@ -143,4 +143,4 @@ For my local supporters:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the 6ix License - see the [LICENSE](LICENSE) file for details.
