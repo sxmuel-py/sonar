@@ -131,9 +131,9 @@ If this tool saved you hours of `grep`ing through legacy code, consider buying m
 
 For my local supporters:
 
-**Bank:** `(OPAY)`  
- **Account Number:** `(9059785724)`  
- **Account Name:** `(SAMUEL OLATIDOYE)`
+**Bank:** `OPAY`  
+ **Account Number:** `9059785724`  
+ **Account Name:** `SAMUEL OLATIDOYE`
 
 </div>
 
