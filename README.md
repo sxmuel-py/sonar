@@ -139,6 +139,14 @@ For my local supporters:
 
 <br />
 
+### ✉️ Contact & Feedback
+
+For inquiries, collaborations, or feedback, feel free to reach out:
+
+**Email:** [ixsamuel19@gmail.com](mailto:ixsamuel19@gmail.com)
+
+<br />
+
 ---
 
 ## 📄 License
